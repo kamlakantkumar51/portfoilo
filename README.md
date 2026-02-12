@@ -1,2 +1,2 @@
 # portfoilo
-https://portfolio-kamlakant.netlify.app/
+https://kamlakant.netlify.app/
